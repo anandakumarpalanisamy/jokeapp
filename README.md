@@ -1,2 +1,2 @@
 # jokeapp
-Spring boot jokes app
+Spring boot jokes app that randomly displays a chuck noris joke
